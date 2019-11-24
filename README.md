@@ -1,2 +1,27 @@
-# Basic-Routes-Views-and-Controllers
-This is a project proposed by Odin Project https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers
+# Rails projects on routes and dynamic links
+
+# Things you may want to cover:
+
+
+# TECHNICAL DOCUMENTATION
+## Pre-requisites
+* Ruby version
+You will need Ruby Version 2.6.5
+
+* System dependencies
+Windows/ Mac
+Rails 6.0.1
+
+## Installation and running
+Clone project and run
+`bundle install --without production`
+
+ Start the rails server
+`rails server`
+
+## How to contribute and partipate
+Fork this repo and submit a PR for review and potential merge to main branch
+
+## Engineers
+1. [Christian Salazar](https://github.com/Grifo89)
+2. [Edem Agbenyo](https://github.com/edemagbenyo/)
